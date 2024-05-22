@@ -9,8 +9,8 @@ In this course, You will practice more labs of C++. This will help you to master
 
 ## Scenarios
 
-|   Index | Name                                                     | Difficulty   | URL                                                                        |
-|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | URL                                                                        |
+|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |     001 | 📖 Determine String Length in C++                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96191'>Start Lab</a>        |
 |     002 | 📖 C++ Multiset in STL                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96232'>Start Lab</a>        |
 |     003 | 📖 Finding Average of N User Input Numbers               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96156'>Start Lab</a>        |
