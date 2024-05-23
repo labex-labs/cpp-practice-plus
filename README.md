@@ -202,6 +202,7 @@ In this course, You will practice more labs of C++. This will help you to master
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [C++ Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [C++ Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
 
