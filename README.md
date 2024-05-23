@@ -9,7 +9,7 @@ In this course, You will practice more labs of C++. This will help you to master
 
 ## Scenarios
 
-|   Index | Name                                                    | Difficulty   | URL                                                                        |
+|   Index | Name                                                    | Difficulty   | Practice                                                                   |
 |---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |     001 | 📖 Determine String Length in C++                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96191'>Start Lab</a>        |
 |     002 | 📖 C++ Multiset in STL                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96232'>Start Lab</a>        |
@@ -199,4 +199,9 @@ In this course, You will practice more labs of C++. This will help you to master
 |     186 | 🎯 Fix C++14 String Trimming Bug                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/249172'>Start Challenge</a> |
 |     187 | 🎯 Singleton Logger Implementation                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/243665'>Start Challenge</a> |
 |     188 | 📖 Memory Leak Detector with C++                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178620'>Start Lab</a>       |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
 
